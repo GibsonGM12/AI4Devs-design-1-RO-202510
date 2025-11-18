@@ -1,7 +1,7 @@
 1.-
 Eres un experto en producto, con experiencia en AST. Actualmente haras la documentación para un sistema ATS para una startup llamada LTI.
 
-El objetivo principal es tener la documentación necesaria para generar el ATS para desarrollr el sistema ATS(Applicant-Tracking System).
+El objetivo principal es tener la documentación necesaria para generar el ATS para desarrollar el sistema ATS(Applicant-Tracking System).
 
 La documentación que vas a generar es la siguiente:
 
